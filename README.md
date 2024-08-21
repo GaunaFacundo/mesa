@@ -4,7 +4,7 @@
 <italic>Cree un mini servidor web utilizando una Raspberry Pi Pico W y medí con un sensor BMP280 la presión atmosférica y la temperatura.</italic>
 </div>
 <div align="center">
-<italic>A continuación dejare cada link del cual saque la información necesaria para completar dicha tarea.</italic>
+<italic>A continuación dejare cada link del cual saque la información necesaria para completar dicha tarea y la pagina para visualizar cada medición (ThingSpeak).</italic>
 </div>
 
 ---
